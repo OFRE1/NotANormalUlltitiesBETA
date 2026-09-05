@@ -1,4 +1,4 @@
-# NotANormalUllity
+# NotANormalUllity Beta
 
 **NotANormalUllity (NANM)** is a small Windows command-line utility written in C++.
 
